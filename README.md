@@ -1,5 +1,5 @@
 # prueba_gol
-Creamos una nueva ventana y dentro de ésta cargamos las imágenes que vamos a utilizar: balon y arco.
+Creamos una nueva ventana con la libreria Tkinter y dentro de ésta cargamos las imágenes que vamos a utilizar: balon y arco.
 para crear los movimientos realizamos una condición de si se mueve a la izquierda disminuye en tres movimientos y debe imprimir en qué coordenadas se encuentra
 caso contrario si se mueve a la derecha aumenta tres movimientos e igualmente debe indicar las coordenadas.
 Para realizar estar coordenadas debemos crear una variable local con las coordenadas iniciales del balon.
